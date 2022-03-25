@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-#!/bimn/bash
-ALX School is so cool!
-=======
-#!/bin/bash
-ALX School
->>>>>>> update_script
+
+#!/bim/bash
+echo "ALX School is so cool!"
+
+echo "ALX Schoo"l
+
